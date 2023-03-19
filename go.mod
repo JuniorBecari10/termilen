@@ -1,3 +1,3 @@
-module github.com/JuniorBecari10/termilen
+module termilen
 
 go 1.19
